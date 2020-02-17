@@ -1,10 +1,10 @@
 package com.github.chuross.rxobservablefield.internal
 
-import android.databinding.ObservableField
+import androidx.databinding.ObservableField
 import io.reactivex.Observable
 import io.reactivex.disposables.Disposables
-import android.databinding.Observable.OnPropertyChangedCallback
-import android.databinding.ObservableList
+import androidx.databinding.Observable.OnPropertyChangedCallback
+import androidx.databinding.ObservableList
 
 internal object ObservableUtils {
 
