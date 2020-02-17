@@ -1,6 +1,6 @@
 package com.github.chuross.rxobservablefield
 
-import android.databinding.ObservableField
+import androidx.databinding.ObservableField
 import com.github.chuross.rxobservablefield.internal.ObservableUtils
 import io.reactivex.Observable
 
