@@ -1,7 +1,7 @@
 package com.github.chuross.rxobservablefield
 
-import android.databinding.ListChangeRegistry
-import android.databinding.ObservableList
+import androidx.databinding.ListChangeRegistry
+import androidx.databinding.ObservableList
 import com.github.chuross.rxobservablefield.internal.ObservableUtils
 import io.reactivex.Observable
 
